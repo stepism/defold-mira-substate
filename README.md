@@ -1,4 +1,8 @@
-# mira.state
+# mira.state.
+hierarchical state module.
+
+For more info, see substate-sample.script.
+
 
 # USAGE
 ```
@@ -68,3 +72,6 @@ end
 
 
 ```
+
+# Operation
+https://youtu.be/6XsiNU3rBf0
