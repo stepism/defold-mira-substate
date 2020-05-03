@@ -1,5 +1,5 @@
 # mira.state.
-hierarchical state module.
+hierarchical state machine.
 
 For more info, see substate-sample.script.
 
