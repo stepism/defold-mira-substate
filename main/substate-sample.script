@@ -1,4 +1,4 @@
-local mira_state = require("mira.state")
+local mira_state = require("miraState.state")
 
 -- state for update()
 local state_idle = 0

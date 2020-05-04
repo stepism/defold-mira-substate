@@ -15,5 +15,5 @@ input_method = HiddenInputField
 title = defold-mira-substate
 
 [library]
-include_dirs = mira
+include_dirs = miraState
 

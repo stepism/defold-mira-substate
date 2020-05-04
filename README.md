@@ -7,13 +7,13 @@ For more info, see substate-sample.script.
 
 Add https://github.com/stepism/defold-mira-substate/archive/master.zip as a dependency in your game.project file.
 Fetch library using the main menu: Project -> Fetch Libraries.
-Enable the module adding local mira_state = require("mira.state.state") at the beginning of your script.
+Enable the module adding local mira_state = require("miraState.state") at the beginning of your script.
 
 
 
 # USAGE
 ```
-local mira_state = require("mira.state")
+local mira_state = require("miraState.state")
 
 -- state for update()
 local state_idle = 0

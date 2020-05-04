@@ -1,5 +1,5 @@
 local M = {}
-local state_info = require("mira.state_info")
+local state_info = require("miraState.state_info")
 local unused_state = 99999
 
 function M.new()
