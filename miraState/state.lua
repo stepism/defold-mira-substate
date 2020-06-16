@@ -19,7 +19,7 @@ function M.new()
 			instance.info.add_flag(instance.info.loop)
 		end
 
-		if instance.child_state ~= nil then
+		if not (instance.child_state == nil) then
 			instance.child_state.reset()
 		end
 	end
